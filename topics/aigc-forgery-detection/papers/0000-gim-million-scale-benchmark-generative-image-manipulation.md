@@ -20,7 +20,7 @@ TODO: Summarize how GIM benchmarks generative image manipulation detection and l
 
 ## Local Source
 
-- Local PDF: `pdfs/1.AIGC图像篡改_生成式编辑检测/GIM A Million-scale Benchmark for Generative Image Manipulation Detection.pdf`
+- Local PDF: `pdfs/AIGC Forgery Detection/GIM A Million-scale Benchmark for Generative Image Manipulation Detection.pdf`
 - SHA-256: `D45AAFE9BD55246E3CDE75D1E5147E020E51158C693478ACCE0E98590123B342`
 
 ## Reading Notes

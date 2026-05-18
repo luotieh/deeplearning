@@ -20,8 +20,8 @@ TODO: Summarize how vision-language collaborative reasoning reduces pixel-level 
 
 ## Local Source
 
-- Local PDF: `pdfs/信息论、弱监督与低标注成本/Weakly-Supervised Image Forgery Localization via Vision-Language.pdf`
-- Duplicate local PDF: `pdfs/可解释取证  MLLM 辅助取证/Weakly-Supervised Image Forgery Localization via Vision-Language.pdf`
+- Local PDF: `pdfs/Information Theory and Weak Supervision/Weakly-Supervised Image Forgery Localization via Vision-Language.pdf`
+- Duplicate local PDF: `pdfs/Explainable and MLLM-Assisted Forensics/Weakly-Supervised Image Forgery Localization via Vision-Language.pdf`
 - SHA-256: `84844A1FDBBEA097522E4135D30D150DB9FBF7530FAB0C0FF83B11681A97FEBE`
 
 ## Citation

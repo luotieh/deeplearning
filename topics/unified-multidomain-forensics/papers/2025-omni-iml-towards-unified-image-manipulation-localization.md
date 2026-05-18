@@ -20,7 +20,7 @@ TODO: Summarize the unified IML design and the tasks/domains it covers.
 
 ## Local Source
 
-- Local PDF: `pdfs/统一模型 _多域取证/Omni-IML_Towards Unified Image Manipulation Localization.pdf`
+- Local PDF: `pdfs/Unified and Multi-Domain Forensics/Omni-IML_Towards Unified Image Manipulation Localization.pdf`
 - SHA-256: `FAB5DBF11AFF57A94F4E1ABE0CBEC4BB994DCAAF7151F94408D5BA1E20B2BB4A`
 
 ## Citation

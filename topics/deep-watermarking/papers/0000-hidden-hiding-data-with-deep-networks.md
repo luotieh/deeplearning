@@ -20,7 +20,7 @@ TODO: Summarize how HiDDeN jointly trains encoder and decoder networks for robus
 
 ## Local Source
 
-- Local PDF: `pdfs/deep waterMarking/HiDDeN.pdf`
+- Local PDF: `pdfs/Deep Watermarking/HiDDeN.pdf`
 - SHA-256: `4F2949900A98D0DC3A29B8AAE52CB368F935639C795F13486CF470079A141567`
 
 ## Citation

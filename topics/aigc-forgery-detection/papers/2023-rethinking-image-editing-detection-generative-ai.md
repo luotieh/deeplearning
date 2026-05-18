@@ -20,7 +20,7 @@ TODO: Summarize how this paper reframes image editing detection under modern gen
 
 ## Local Source
 
-- Local PDF: `pdfs/1.AIGC图像篡改_生成式编辑检测/Rethinking Image Editing Detection in the Era of Generative AI Revolution.pdf`
+- Local PDF: `pdfs/AIGC Forgery Detection/Rethinking Image Editing Detection in the Era of Generative AI Revolution.pdf`
 - SHA-256: `ED3D1264823448152C309A927031A50C9A865D35502781E0DA457F0A7A6226D0`
 
 ## Reading Notes

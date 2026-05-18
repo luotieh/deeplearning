@@ -20,7 +20,7 @@ TODO: Summarize the feature-space approach for detecting unseen generator output
 
 ## Local Source
 
-- Local PDF: `pdfs/跨模型泛化检测/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf`
+- Local PDF: `pdfs/Cross-Model Generalization/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf`
 - SHA-256: `6DB25A0508A106187423FCC223545B39B9C28B211AC023E6B222513FE394C144`
 
 ## Citation
