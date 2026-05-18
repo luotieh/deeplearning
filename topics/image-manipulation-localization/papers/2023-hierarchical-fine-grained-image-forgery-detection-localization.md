@@ -1,4 +1,4 @@
-# Hierarchical Fine-Grained Image Forgery Detection and Localization
+﻿# Hierarchical Fine-Grained Image Forgery Detection and Localization
 
 ## Metadata
 
@@ -20,7 +20,7 @@ TODO: Summarize the hierarchical fine-grained formulation for IFDL representatio
 
 ## Local Source
 
-- Local PDF: `Image Manipulation Localization/Guo_Hierarchical_Fine-Grained_Image_Forgery_Detection_and_Localization_CVPR_2023_paper.pdf`
+- Local PDF: `pdfs/Image Manipulation Localization/Guo_Hierarchical_Fine-Grained_Image_Forgery_Detection_and_Localization_CVPR_2023_paper.pdf`
 - SHA-256: `430EDD66723D8BEC44EBECF359564070A564618A951CE3E2F8A98538A3F2EC63`
 
 ## Citation

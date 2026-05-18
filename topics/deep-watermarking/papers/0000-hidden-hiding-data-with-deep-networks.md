@@ -1,4 +1,4 @@
-# HiDDeN: Hiding Data With Deep Networks
+﻿# HiDDeN: Hiding Data With Deep Networks
 
 ## Metadata
 
@@ -20,7 +20,7 @@ TODO: Summarize how HiDDeN jointly trains encoder and decoder networks for robus
 
 ## Local Source
 
-- Local PDF: `deep waterMarking/HiDDeN.pdf`
+- Local PDF: `pdfs/deep waterMarking/HiDDeN.pdf`
 - SHA-256: `4F2949900A98D0DC3A29B8AAE52CB368F935639C795F13486CF470079A141567`
 
 ## Citation

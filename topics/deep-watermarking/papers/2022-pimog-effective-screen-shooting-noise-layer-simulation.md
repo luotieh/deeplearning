@@ -1,4 +1,4 @@
-# PIMoG: An Effective Screen-shooting Noise-Layer Simulation for Deep-Learning-Based Watermarking Network
+﻿# PIMoG: An Effective Screen-shooting Noise-Layer Simulation for Deep-Learning-Based Watermarking Network
 
 ## Metadata
 
@@ -20,7 +20,7 @@ TODO: Summarize the screen-shooting noise-layer simulation and robustness setup.
 
 ## Local Source
 
-- Local PDF: `deep waterMarking/PIMoG.pdf`
+- Local PDF: `pdfs/deep waterMarking/PIMoG.pdf`
 - SHA-256: `626F1A56EFD7454E9F96423EAAC201FBB4599A2D26DC5CEF39931EC645C7807E`
 
 ## Citation

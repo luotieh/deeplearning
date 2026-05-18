@@ -49,7 +49,7 @@ This repository organizes papers, notes, BibTeX placeholders, and reproduction p
 
 ## Local PDF Inventory
 
-PDF files are cataloged in [pdfs/README.md](pdfs/README.md). Because the remote repository is public, newly discovered PDFs are not committed by default; notes and indexes preserve the research inventory without republishing copyrighted files.
+PDF files are stored under [pdfs/](pdfs/) and cataloged in [pdfs/README.md](pdfs/README.md). The original source folders were moved under `pdfs/` so the repository keeps one canonical location for paper binaries.
 
 ## Status Legend
 

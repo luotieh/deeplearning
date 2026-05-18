@@ -6,5 +6,6 @@ __pycache__/
 .venv/
 .ipynb_checkpoints/
 
-# Public repository policy: catalog PDFs in Markdown notes, but do not add new PDF binaries by default.
+# Keep paper binaries organized under pdfs/.
 *.pdf
+!pdfs/**/*.pdf

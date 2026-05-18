@@ -1,4 +1,4 @@
-# FakeShield: Explainable Image Forgery Detection and Localization via Multi-Modal Large Language Models
+﻿# FakeShield: Explainable Image Forgery Detection and Localization via Multi-Modal Large Language Models
 
 ## Metadata
 
@@ -20,7 +20,7 @@ TODO: Summarize how FakeShield uses MLLMs for explainable detection and localiza
 
 ## Local Source
 
-- Local PDF: `可解释取证  MLLM 辅助取证/FAKESHIELD_EXPLAINABLE IMAGE FORGERY DETECTION AND LOCALIZATION VIA MULTI-MODAL.pdf`
+- Local PDF: `pdfs/可解释取证  MLLM 辅助取证/FAKESHIELD_EXPLAINABLE IMAGE FORGERY DETECTION AND LOCALIZATION VIA MULTI-MODAL.pdf`
 - SHA-256: `8B7120D3809E4BE4F889647C9822FC3E1D271F9BEB1E3850A8BC13AA5099E6B0`
 
 ## Citation

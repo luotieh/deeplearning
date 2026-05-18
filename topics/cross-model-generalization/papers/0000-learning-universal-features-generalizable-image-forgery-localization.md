@@ -1,4 +1,4 @@
-# Learning Universal Features for Generalizable Image Forgery Localization
+﻿# Learning Universal Features for Generalizable Image Forgery Localization
 
 ## Metadata
 
@@ -20,7 +20,7 @@ TODO: Summarize the universal features proposed for generalizable image forgery 
 
 ## Local Source
 
-- Local PDF: `跨模型泛化检测/LEARNING UNIVERSAL FEATURES FOR GENERALIZABLE IMAGE FORGERY LOCALIZATION.pdf`
+- Local PDF: `pdfs/跨模型泛化检测/LEARNING UNIVERSAL FEATURES FOR GENERALIZABLE IMAGE FORGERY LOCALIZATION.pdf`
 - SHA-256: `86B686BAF8B2CF8D11222160100DDB09920E8E4FA01E41F7B55621BB07D33AD9`
 
 ## Citation

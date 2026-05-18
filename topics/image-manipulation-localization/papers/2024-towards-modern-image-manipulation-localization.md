@@ -1,4 +1,4 @@
-# Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods
+﻿# Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods
 
 ## Metadata
 
@@ -20,7 +20,7 @@ TODO: Summarize the dataset construction paradigm and proposed localization meth
 
 ## Local Source
 
-- Local PDF: `Image Manipulation Localization/Towards_Modern_Image_Manipulation_Localization_A_Large-Scale_Dataset_and_Novel_CVPR_2024_paper.pdf`
+- Local PDF: `pdfs/Image Manipulation Localization/Towards_Modern_Image_Manipulation_Localization_A_Large-Scale_Dataset_and_Novel_CVPR_2024_paper.pdf`
 - SHA-256: `10C40CA6EC6812CAD1414E505909B4CDFF0F22D5D6B4A532DD00B311EF4EDB30`
 
 ## Citation

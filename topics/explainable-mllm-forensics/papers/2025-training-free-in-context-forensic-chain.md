@@ -1,4 +1,4 @@
-# Training-Free In-Context Forensic Chain for Image Manipulation Detection and Localization
+﻿# Training-Free In-Context Forensic Chain for Image Manipulation Detection and Localization
 
 ## Metadata
 
@@ -20,7 +20,7 @@ TODO: Summarize the In-Context Forensic Chain and its training-free reasoning wo
 
 ## Local Source
 
-- Local PDF: `可解释取证  MLLM 辅助取证/TRAINING-FREE IN-CONTEXT FORENSIC CHAIN FOR IMAGE MANIPULATION.pdf`
+- Local PDF: `pdfs/可解释取证  MLLM 辅助取证/TRAINING-FREE IN-CONTEXT FORENSIC CHAIN FOR IMAGE MANIPULATION.pdf`
 - SHA-256: `0968DBDC0C6F4C06587E6873DFF18867CBAC6B96DF28C6C089AC38ED042AD195`
 
 ## Citation

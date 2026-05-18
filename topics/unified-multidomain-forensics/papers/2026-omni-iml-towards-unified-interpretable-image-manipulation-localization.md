@@ -1,4 +1,4 @@
-# Omni-IML: Towards Unified Interpretable Image Manipulation Localization
+﻿# Omni-IML: Towards Unified Interpretable Image Manipulation Localization
 
 ## Metadata
 
@@ -20,7 +20,7 @@ TODO: Summarize the interpretable generalist Omni-IML model components.
 
 ## Local Source
 
-- Local PDF: `统一模型 _多域取证/OMNI-IML_TOWARDS UNIFIED INTERPRETABLE.pdf`
+- Local PDF: `pdfs/统一模型 _多域取证/OMNI-IML_TOWARDS UNIFIED INTERPRETABLE.pdf`
 - SHA-256: `7C949CF49793C3B1B38A5C8BA11E9802CD7535CE27E468AF19C9609603B65983`
 
 ## Citation

@@ -1,4 +1,4 @@
-# Exploring Multi-view Pixel Contrast for General and Robust Image Forgery Localization
+﻿# Exploring Multi-view Pixel Contrast for General and Robust Image Forgery Localization
 
 ## Metadata
 
@@ -20,7 +20,7 @@ TODO: Summarize the multi-view pixel-wise contrastive learning strategy.
 
 ## Local Source
 
-- Local PDF: `Image Manipulation Localization/Exploring Multi-view Pixel Contrast for General and Robust.pdf`
+- Local PDF: `pdfs/Image Manipulation Localization/Exploring Multi-view Pixel Contrast for General and Robust.pdf`
 - SHA-256: `9810800E603D96E6CA2F18D3EC005752A96DFEC315EA63920960D77978D86F4B`
 
 ## Citation

@@ -1,4 +1,4 @@
-# StegaStamp: Invisible Hyperlinks in Physical Photographs
+﻿# StegaStamp: Invisible Hyperlinks in Physical Photographs
 
 ## Metadata
 
@@ -20,7 +20,7 @@ TODO: Summarize how StegaStamp embeds robust hidden hyperlinks into physical pho
 
 ## Local Source
 
-- Local PDF: `deep waterMarking/StegaStamp.pdf`
+- Local PDF: `pdfs/deep waterMarking/StegaStamp.pdf`
 - SHA-256: `5DC348E5F92E3B79A00605F798C88EDDD0E5BA0341CD4617D028D737AB9A00A3`
 
 ## Citation

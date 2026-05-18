@@ -1,4 +1,4 @@
-# MBRS: Enhancing Robustness of DNN-based Watermarking by Mini-Batch of Real and Simulated JPEG Compression
+﻿# MBRS: Enhancing Robustness of DNN-based Watermarking by Mini-Batch of Real and Simulated JPEG Compression
 
 ## Metadata
 
@@ -20,7 +20,7 @@ TODO: Summarize the mini-batch strategy combining real and simulated JPEG compre
 
 ## Local Source
 
-- Local PDF: `deep waterMarking/MBRS.pdf`
+- Local PDF: `pdfs/deep waterMarking/MBRS.pdf`
 - SHA-256: `B91BA1A8758027E9CA24BCE4E9D56199C857CCB906801AEC66ED771226935441`
 
 ## Citation
