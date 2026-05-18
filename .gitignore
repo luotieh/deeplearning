@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.env
+.venv/
+.ipynb_checkpoints/
+
+# Public repository policy: catalog PDFs in Markdown notes, but do not add new PDF binaries by default.
+*.pdf
