@@ -16,11 +16,12 @@ This repository organizes papers, notes, BibTeX placeholders, and reproduction p
 
 | Priority | Paper | Year | Topic | Status | Note |
 |---:|---|---:|---|---|---|
-| 1 | [GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization](topics/aigc-forgery-detection/papers/0000-gim-million-scale-benchmark-generative-image-manipulation.md) | TODO | AIGC Forgery Detection | to-read | Benchmark and localization dataset; metadata needs verification |
-| 2 | [TruFor: Leveraging All-Round Clues for Trustworthy Image Forgery Detection and Localization](topics/image-manipulation-localization/papers/2023-trufor-leveraging-all-round-clues.md) | 2023 | Image Manipulation Localization | to-read | CVPR 2023 from local filename |
-| 3 | [Towards Universal Fake Image Detectors That Generalize Across Generative Models](topics/cross-model-generalization/papers/2023-towards-universal-fake-image-detectors.md) | 2023 | Cross-Model Generalization | to-read | CVPR 2023 from local filename |
-| 4 | [FakeShield: Explainable Image Forgery Detection and Localization via Multi-Modal Large Language Models](topics/explainable-mllm-forensics/papers/2025-fakeshield-explainable-image-forgery-detection-localization.md) | 2025 | Explainable and MLLM-Assisted Forensics | to-read | ICLR 2025 from first page |
-| 5 | [Omni-IML: Towards Unified Interpretable Image Manipulation Localization](topics/unified-multidomain-forensics/papers/2026-omni-iml-towards-unified-interpretable-image-manipulation-localization.md) | 2026 | Unified and Multi-Domain Forensics | to-read | ICLR 2026 from first page |
+| 1 | [GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization](topics/aigc-forgery-detection/papers/0000-gim-million-scale-benchmark-generative-image-manipulation.md) | 2025 | AIGC Forgery Detection | to-read | AAAI 2025; AIGC generative manipulation detection/localization benchmark |
+| 2 | [MIML: Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods](topics/image-manipulation-localization/papers/2024-towards-modern-image-manipulation-localization.md) | 2024 | Image Manipulation Localization | to-read | CVPR 2024; large-scale dataset for modern image manipulation localization |
+| 3 | [TruFor: Leveraging All-Round Clues for Trustworthy Image Forgery Detection and Localization](topics/image-manipulation-localization/papers/2023-trufor-leveraging-all-round-clues.md) | 2023 | Image Manipulation Localization | to-read | CVPR 2023; strong baseline with RGB and noise fingerprint fusion |
+| 4 | [HiFi-Net: Hierarchical Fine-Grained Image Forgery Detection and Localization](topics/image-manipulation-localization/papers/2023-hierarchical-fine-grained-image-forgery-detection-localization.md) | 2023 | Image Manipulation Localization | to-read | CVPR 2023; hierarchical fine-grained IFDL |
+| 5 | [FakeShield: Explainable Image Forgery Detection and Localization via Multi-Modal Large Language Models](topics/explainable-mllm-forensics/papers/2025-fakeshield-explainable-image-forgery-detection-localization.md) | 2025 | Explainable and MLLM-Assisted Forensics | to-read | ICLR 2025; explainable IFDL with MLLM forensics |
+| 6 | [Community Forensics: Using Thousands of Generators to Train Fake Image Detectors](topics/cross-model-generalization/papers/2025-community-forensics-thousands-generators.md) | 2025 | Cross-Model Generalization | to-read | CVPR 2025; cross-generator generalization detection |
 
 ## Recently Added
 
